@@ -25,7 +25,7 @@ on:
 #    types: started
 
 env:
-  REPO_URL: https://github.com/whjddzyx/openwrt
+  REPO_URL: https://github.com/whjddzyx/lienol1
   REPO_BRANCH: rebase-19.07-5.4
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config
